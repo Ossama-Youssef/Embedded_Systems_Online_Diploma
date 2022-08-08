@@ -1,0 +1,4 @@
+1 Osama Youssef 3.8 10 20 30 40 50 
+2 Fam Ayman 3.9 20 40 30 80 70 
+3 Mina Karam 3.7 10 40 60 70 20 
+3 Kerllos Shenoda 4 20 40 70 80 90 
