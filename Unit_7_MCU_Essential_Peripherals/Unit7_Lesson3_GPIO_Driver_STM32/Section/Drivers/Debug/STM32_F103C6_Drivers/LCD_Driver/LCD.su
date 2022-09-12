@@ -1,0 +1,11 @@
+LCD.c:14:6:wait_ms	24	static,ignoring_inline_asm
+LCD.c:30:6:HAL_IS_LCD_BUSY	8	static
+LCD.c:167:6:HAL_LCD_KICK	8	static,ignoring_inline_asm
+LCD.c:179:6:HAL_LCD_init	8	static
+LCD.c:286:6:HAL_LCD_WRITE_CMD	16	static
+LCD.c:340:6:HAL_LCD_WRITE_CHAR	16	static
+LCD.c:437:6:HAL_LCD_GOTO_XY	16	static
+LCD.c:457:6:HAL_LCD_WRITE_STRING	24	static
+LCD.c:480:6:HAL_LCD_WRITE_NUMBER	48	static
+LCD.c:488:6:HAL_LCD_WRITE_REAL_NUMBER	88	static
+LCD.c:504:6:HAL_LCD_CLEAR_SCREEN_FUNC	8	static
